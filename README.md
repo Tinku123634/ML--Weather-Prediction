@@ -59,7 +59,9 @@ print("MSE:", mean_squared_error(y_test, y_pred))
 */
 ```
 
+
 ## Output:
+
 <img width="1422" height="59" alt="Screenshot 2026-03-17 090509" src="https://github.com/user-attachments/assets/66367044-131e-42f9-858a-b518597481c7" />
 
 
