@@ -27,8 +27,8 @@ The dataset contains environmental parameters such as:Humidity,Wind Speed,Pressu
 ```
 /*
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by: 
-RegisterNumber:
+Developed by: S.Tinku
+RegisterNumber:25006607
 
 import pandas as pd
 import numpy as np
