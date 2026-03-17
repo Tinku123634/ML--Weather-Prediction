@@ -4,7 +4,10 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 
 ## Problem Statement and Dataset
 
-
+Problem Statement:
+To develop a model using the Random Forest Algorithm to predict temperature, PM2.5 level, and energy consumption based on environmental sensor data like humidity, wind speed, and pressure.
+Dataset:
+The dataset contains environmental parameters such as:Humidity,Wind Speed,Pressure,Temperature,PM2.5,Energy Format: CSV file (weather_data.csv) Type: Numerical data
 
 ## Equipments Required:
 1. Hardware – PCs
