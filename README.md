@@ -19,9 +19,13 @@ The dataset contains environmental parameters such as:Humidity,Wind Speed,Pressu
 ## Algorithm:
 
 1.Import required Python libraries.
+
 2.Load the weather dataset and preprocess the data.
+
 3.Select features (hum, co2, illumination, pressure, pm2_5, pm10, wind_speed) and target (tem).
+
 4.Split the dataset and train the Linear Regression model.
+
 5.Predict the temperature and evaluate the model performance.
 
 ## Program:
