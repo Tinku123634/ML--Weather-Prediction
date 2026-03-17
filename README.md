@@ -3,11 +3,12 @@
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
-
 Problem Statement:
+
 To develop a model using the Random Forest Algorithm to predict temperature, PM2.5 level, and energy consumption based on environmental sensor data like humidity, wind speed, and pressure.
 
 Dataset:
+
 The dataset contains environmental parameters such as:Humidity,Wind Speed,Pressure,Temperature,PM2.5,Energy Format: CSV file (weather_data.csv) Type: Numerical data.
 
 ## Equipments Required:
@@ -167,5 +168,4 @@ for target in targets:
 <img width="621" height="740" alt="564532304-314773d2-78a8-41a3-a4a0-43a0a45119dd" src="https://github.com/user-attachments/assets/cb1e63f3-12c6-4454-9d26-84427b8a3d38" />
 
 ## Result:
-
 The Linear Regression model was successfully trained to predict temperature (tem) using weather parameters. The model performance was evaluated using R² Score and Mean Squared Error (MSE), and the Actual vs Predicted Temperature graph was generated.
